@@ -1,4 +1,0 @@
-Exported 'C:\Users\sirvi\OneDrive\Desktop\Johdatus elektroniikkaan harjoitustyö\Harjoitustyo22\Harjoitustyo22-backups\Harjoitustyo22-F_Cu.svg'.
-Exported 'C:\Users\sirvi\OneDrive\Desktop\Johdatus elektroniikkaan harjoitustyö\Harjoitustyo22\Harjoitustyo22-backups\Harjoitustyo22-Edge_Cuts.svg'.
-Exported 'C:\Users\sirvi\OneDrive\Desktop\Johdatus elektroniikkaan harjoitustyö\Harjoitustyo22\Harjoitustyo22-backups\Harjoitustyo22-F_Cu.svg'.
-Exported 'C:\Users\sirvi\OneDrive\Desktop\Johdatus elektroniikkaan harjoitustyö\Harjoitustyo22\Harjoitustyo22-backups\Harjoitustyo22-Edge_Cuts.svg'.
