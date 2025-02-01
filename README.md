@@ -1,10 +1,12 @@
 # 555 Timer Project
 
 ### Piirikaavio
-[c6f6648fb7c1d2932229c864cdc7b05b](https://github.com/user-attachments/assets/1c171e8c-62b0-45ea-b7b8-b86484c814d7)
+![c6f6648fb7c1d2932229c864cdc7b05b](https://github.com/user-attachments/assets/8c57b8c5-c109-44b8-af73-ca9c4c83fa3f)
+
 
 ### PCB-suunnittelu
-[8848e63bbb76c2ebe826438a79f11f88](https://github.com/user-attachments/assets/0cf293e4-0ac0-4cb4-98c5-d540ed0d982c)
+
+![8848e63bbb76c2ebe826438a79f11f88](https://github.com/user-attachments/assets/95279a69-57d4-4400-b08c-7a828c61a93d)
 
 
 Tämä on harjoitustyö, jossa suunniteltiin pintaliitoskomponenteilla toteutettava 555-ajastinpiiri.
